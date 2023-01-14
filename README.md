@@ -6,3 +6,6 @@
 全部onnx文件占据磁盘空间是18.7 GB， onnx文件放在百度云盘，
 链接：https://pan.baidu.com/s/1_m0JQcY5qMUUCEhlCrfjEA 
 提取码：31wg
+weights文件夹有3个文件夹，coco文件夹里的onnx文件是COCO目标检测的，
+face文件夹里的onnx文件是人脸检测的，
+crowdhuman文件夹里的onnx文件是密集行人检测的。
